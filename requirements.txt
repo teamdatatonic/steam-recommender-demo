@@ -1,0 +1,5 @@
+google-cloud-bigquery
+google-cloud-storage
+pandas
+tensorflow==1.10
+Scikit-learn
